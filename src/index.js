@@ -1,9 +1,6 @@
 import app from "./app.js";
-import dotenv from "dotenv";
 
 //dot env config
-
-dotenv.config();
 
 //env variables
 
